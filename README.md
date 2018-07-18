@@ -4,6 +4,10 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 > ## :exclamation: Remember - you must build the library with `ng build` prior to serving the app.
 
+## Slides
+
+Slides for this presentation are [located here](slides/presentation-slides.pdf)
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
